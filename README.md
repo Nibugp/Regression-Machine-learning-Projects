@@ -12,6 +12,7 @@ This repository showcases foundational and advanced projects on machine learning
 This is an advanced version of the Boston house price prediction project. The notebook applies a more sophisticated framework where data is processed through multiple models for training, testing, prediction, and evaluation.
 
 **Techniques Used**:
+
 Linear Regression
 
 Lasso Regression
