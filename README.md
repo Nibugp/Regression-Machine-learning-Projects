@@ -1,6 +1,7 @@
 # Regression-Machine-learning-Projects
 
-Machine Learning Regression Models
+**Machine Learning Regression Models**
+
 This repository showcases foundational and advanced projects on machine learning regression using various techniques implemented with the scikit-learn library.
 
 **Projects Overview**
