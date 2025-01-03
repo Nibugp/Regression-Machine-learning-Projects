@@ -13,10 +13,15 @@ This is an advanced version of the Boston house price prediction project. The no
 
 **Techniques Used**:
 Linear Regression
+
 Lasso Regression
+
 Ridge Regression
+
 Stochastic Gradient Descent (SGD)
+
 Multilayer Perceptron (MLP) Regressor
+
 The objective is to predict the median value of homes based on features like crime rate, average number of rooms, and proximity to employment centers.
 
 
@@ -26,10 +31,15 @@ The objective is to predict the median value of homes based on features like cri
 This project builds on the techniques learned in the Boston housing project. A regression framework is implemented to predict advertising sales based on numerical and categorical attributes (e.g., TV, radio, and newspaper advertising methods).
 
 **Techniques Used**:
+
 Linear Regression
+
 Lasso Regression
+
 Ridge Regression
+
 Stochastic Gradient Descent (SGD)
+
 Multilayer Perceptron (MLP) Regressor
 
 
@@ -39,10 +49,15 @@ Multilayer Perceptron (MLP) Regressor
 This project focuses on analyzing and predicting sales data for Big Mart outlets based on attributes such as product type, outlet type, visibility, and more. A robust regression framework is implemented to handle both numerical and categorical variables for effective prediction.
 
 **Techniques Used**:
+
 Linear Regression
+
 Lasso Regression
+
 Ridge Regression
+
 Stochastic Gradient Descent (SGD)
+
 Multilayer Perceptron (MLP) Regressor
 
 The objective is to predict the sales of products across different outlets while accounting for factors like product visibility, outlet size, and location type.
